@@ -16,8 +16,8 @@
 
 ```bash
 # Clone the neuro-core
-git clone https://github.com/ijajkeyboard/synthwave-converter.git
-cd synthwave-converter
+git clone https://github.com/ytmp3.git
+cd ytmp3
 
 # Initiate sequence
 npm install -g live-server  # Optional: For local testing
@@ -74,4 +74,4 @@ Keep the synthwave alive:
 > **Warning**  
 > Unauthorized distribution may trigger anti-piracy protocols
 ```
-`[![Saweria](https://img.shields.io/badge/Donate-%F0%9F%92%B0_Saweria-FFD700)](https://saweria.co/ijajkeyboard)`
+[![Saweria](https://img.shields.io/badge/Donate-%F0%9F%92%B0_Saweria-FFD700)](https://saweria.co/ijajkeyboard)`
