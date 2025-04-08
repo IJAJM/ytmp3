@@ -1,4 +1,4 @@
-```
+
 # 🎹 SYNTHWAVE CONVERTER [![Saweria](https://img.shields.io/badge/Support-%F0%9F%8D%BA%20Buy%20Me%20a%20Keyboard-red?style=flat)](https://saweria.co/ijajkeyboard)
 
 ![Preview](https://i.ibb.co/6nM6Yzq/synthwave-preview.png)
