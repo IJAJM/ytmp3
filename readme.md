@@ -73,5 +73,5 @@ Keep the synthwave alive:
 
 > **Warning**  
 > Unauthorized distribution may trigger anti-piracy protocols
-```
+
 [![Saweria](https://img.shields.io/badge/Support-%F0%9F%8D%BA%20Buy%20Me%20a%20Keyboard-red?style=flat)](https://saweria.co/ijajkeyboard)
